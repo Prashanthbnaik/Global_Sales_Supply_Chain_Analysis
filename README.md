@@ -35,7 +35,8 @@ This Power BI dashboard provides end-to-end visibility into global sales and sup
 ## Files Included  
 - `SupplyChain_Analytics_Dashboard.pbix` – Fully interactive Power BI file  
 - `Global_Sales_Dashboard_Screenshot.png` – Dashboard preview  
-- `README.md` – Project documentation  
+- `README.md` – Project documentation
+-  `SQL_Query_Document_Global_sales_supply.pdf` – Project report documentation 
 
 ---
 
