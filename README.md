@@ -9,7 +9,7 @@ This Power BI dashboard provides end-to-end visibility into global sales and sup
 - Power BI  
 - Power Query  
 - DAX  
-- SQL (data preparation)
+- PostgreSQL (data documentation)
 
 ---
 
