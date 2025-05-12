@@ -1,4 +1,4 @@
-# Global Sales & Supply Chain Intelligence Dashboard
+# Global Sales & Supply Chain Analysis
 
 ## Overview  
 This Power BI dashboard provides end-to-end visibility into global sales and supply chain operations, covering $36.78M in revenue and 65.75K+ orders. Built using real-world e-commerce and logistics data, the analysis identifies sales trends, fulfillment delays, category performance, and regional distribution efficiency.
@@ -35,11 +35,16 @@ This Power BI dashboard provides end-to-end visibility into global sales and sup
 ## Files Included  
 - `SupplyChain_Analytics_Dashboard.pbix` – Fully interactive Power BI file  
 - `Global_Sales_Dashboard_Screenshot.png` – Dashboard preview  
-- `README.md` – Project documentation
--  `SQL_Query_Document_Global_sales_supply.pdf` – Project report documentation 
+- `README.md` – Project documentation  
+- `SQL_Query_Document_Global_sales_supply.pdf` – Project report documentation  
 
 ---
 
 ## Contact  
 [LinkedIn – www.linkedin.com/in/prashanthnaik7](https://www.linkedin.com/in/prashanthnaik7)  
-*Data Analyst | Power BI | Power Query | PostgreSQL | IBM Data Analyst Certification (In Progress)*
+*Data Analyst | Power BI | Power Query | PostgreSQL | IBM Data Analyst Certification (In Progress)*  
+
+---
+
+## Google Drive Link  
+[Project Files & Data Documentation](https://drive.google.com/file/d/1LDkoM0gtNG9UjuilGScEQyEKhxh_9lvA/view?usp=sharing)
