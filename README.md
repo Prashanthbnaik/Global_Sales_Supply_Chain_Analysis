@@ -47,4 +47,4 @@ This Power BI dashboard provides end-to-end visibility into global sales and sup
 ---
 
 ## Google Drive Link  
-[Project Files & Data Documentation](https://drive.google.com/file/d/1LDkoM0gtNG9UjuilGScEQyEKhxh_9lvA/view?usp=sharing)
+[Access full SQL queries, business insights, and results:](https://drive.google.com/file/d/1LDkoM0gtNG9UjuilGScEQyEKhxh_9lvA/view?usp=sharing)
